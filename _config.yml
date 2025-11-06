@@ -89,7 +89,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "OLIVE Collective" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/olive_bigbottom/olive_bigbottom.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/olive_bigtopbottom/olive_bigtopbottom.svg" # Site logo, also used in jekyll-seo-tag
 description: "We are a grassroots collective based in so-called Vancouver, Canada. We are committed to fighting for liberation for all beings -- human and non-human." # Site description and default description, also used in jekyll-seo-tag
 # url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 # baseurl: ""
@@ -131,8 +131,9 @@ navigation_footer:
   - title: Powered by Alembic
     url: https://github.com/daviddarnes/alembic
 
-social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+social_links: # Appears in sidebar and footer. Set the urls then uncomment and comment out as desired
   Instagram: https://www.instagram.com/olive.collective.yvr/
+  Facebook: https://www.facebook.com/groups/1588782875106980
   Email: mailto:olive.collective@protonmail.com
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour

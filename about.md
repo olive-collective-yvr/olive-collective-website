@@ -2,7 +2,7 @@
 title: Who Are We?
 # feature_text: |
 #   A demo of Markdown and HTML includes
-feature_image: "/assets/logos/olive_bigtopbottom/1024px.png"
+feature_image: "/assets/logos/olive_bigbottom/1024px.png"
 # excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
@@ -63,7 +63,7 @@ including advocating for Indigenous land sovereignty, workers’ rights, climate
                 - Speak for yourself, not others.<br>
                     - One person speaks at a time.<br>
                         - Share the air-time -- Stand up. Stand back.<br>
-                            - Use "i" statements. Be critical, not judgemental.<br>
+                            - Use "I" statements. Be critical, not judgemental.<br>
                                 - Do not personalize conflict.<br>
                                     - You can change your mind.<br>
                                         - Personal stories stay in the room, but learnings should be shared.<br>

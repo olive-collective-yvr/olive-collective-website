@@ -2,12 +2,10 @@
 title: Printable materials
 # feature_text: |
 #   A demo of Markdown and HTML includes
-feature_image: "https://picsum.photos/2560/600?image=873"
+# feature_image: "https://picsum.photos/2560/600?image=873"
 # excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
-
-# Printable materials
 
 Here are some of our printable materials and designs. Feel free to print them out and distribute
 them for the purpose of promoting collective liberation!
