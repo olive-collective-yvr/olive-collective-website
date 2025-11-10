@@ -13,9 +13,9 @@ All OLIVE materials are under a [Creative Commons 4.0 License](https://creativec
 
 [Stickers](/pdfs/stickers.pdf)
 
-[Zine -- Collective Liberation (8x11)](/pdfs/zine_8x11.pdf)
+[Zine -- Collective Liberation (8x11, large version)](/materials/zine_large_version.pdf) -- [Printing/folding Instructions](/materials/large_zine_instructions.pdf)
 
-[Zine -- Collective Liberation (A4)](/pdfs/zine_a4.pdf)
+[Zine -- Collective Liberation (8x11, small version)](/materials/zine_small_version.pdf) -- TODO Printing/folding Instructions
 
 [T-shirt -- Total Liberation](/pdfs/tshirt.pdf)
 
